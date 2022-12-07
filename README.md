@@ -1,1 +1,1 @@
-# Kalkulator pisemny do dodwania i odejmnowania.
+# Kalkulator pisemny - dodawanie i odejmowanie. 
